@@ -1,0 +1,10 @@
+.coin-container {
+    text-align: center;
+}
+.coin {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
